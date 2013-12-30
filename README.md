@@ -1,7 +1,10 @@
 DS18B20
 =======
 
-A perl script to get from DS18B20 1-wire temperature sensors.
+A perl script to get temperature values from DS18B20 1-wire temperature sensors.
+
+This script can read temperature values from multiple sensors. 
+A value is shown with unique ID of a sensor.
 
 # Requirements
 
